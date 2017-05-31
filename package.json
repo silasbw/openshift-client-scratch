@@ -1,0 +1,23 @@
+{
+  "name": "openshift-client-scratch",
+  "version": "0.0.1",
+  "description": "Example using kubernetes-client to implement an OpenShift client",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silasbw/openshift-client-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silasbw/openshift-client-scratch/issues"
+  },
+  "homepage": "https://github.com/silasbw/openshift-client-scratch#readme",
+  "dependencies": {
+    "kubernetes-client": "^3.11.0"
+  }
+}
